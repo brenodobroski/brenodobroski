@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I`m Breno Dobroski👋
+
+## Intro
+Developer since 2023, working mainly in Javascript projects, using
+
+- React.js
+- Node.js
+- React Native
+
+
 
 <!--
 **brenodobroski/brenodobroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
