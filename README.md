@@ -18,6 +18,8 @@ Atualmente estou em busca do meu primeiro emprego na área, porém sempre me ape
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
           
 </div>
+
+##
   
  
 <div> 
