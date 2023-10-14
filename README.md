@@ -1,5 +1,5 @@
 # Oi, eu sou Breno Dobroski 👋
-### Sou estudante de Ciência da Computação na Faculdade Descomplica.
+### Sou estudante de Ciência da Computação.
 
 Comecei minha carreira na área de economia porém tive um primeiro contato com a área de tecnologia e me apaixonei, hoje faço muitos cursos e ja pude me envolver em alguns projetos que me deram conhecimentos como HTML / CSS, Javascript, React, Tailwind, SASS, Node.js, SQL e outros. 
 
@@ -17,8 +17,7 @@ Atualmente estou em busca do meu primeiro emprego na área, porém sempre me ape
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <i class="devicon-figma-plain"></i>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/figma-original.svg">
 </div>
   
   ##
